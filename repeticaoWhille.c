@@ -36,7 +36,5 @@ int main()
         }
 
         printf("Voce acertou a idade de KLEBER!");
-    
-
 
 }
