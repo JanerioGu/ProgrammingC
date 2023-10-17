@@ -1,4 +1,6 @@
-//a prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletandodados sobre o salário e o número de filhos de cada família. A prefeitura desejasaber:  o A média do salário da população;o A média do número de filhos;o O maior salário;o A percentagem de pessoas com salários até R$ 2500,00.   O final da leitura de dados dar-se-á com a entrada de uma resposta negativa paraa pergunta se você deseja cadastrar uma nova família.
+//a prefeitura de uma cidade fez uma pesquisa entre seus habitantes, coletandodados sobre o salário e o número de filhos de cada família. A prefeitura desejasaber:  
+//o A média do salário da população;o A média do número de filhos;o O maior salário;o A percentagem de pessoas com salários até R$ 2500,00.   O final da leitura de dados 
+//dar-se-á com a entrada de uma resposta negativa paraa pergunta se você deseja cadastrar uma nova família.
 
 #include <stdlib.h>
 
